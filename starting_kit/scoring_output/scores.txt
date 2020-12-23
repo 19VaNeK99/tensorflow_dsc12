@@ -1,0 +1,4 @@
+SmallMapScore: 33.1492
+MediumMapScore: 46.3576
+LargeMapScore: 49.0798
+TotalScore: 128.5865
